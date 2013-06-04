@@ -2,3 +2,7 @@
 /bin
 *.apk
 local.properties
+/target
+/.settings
+.classpath
+.project
